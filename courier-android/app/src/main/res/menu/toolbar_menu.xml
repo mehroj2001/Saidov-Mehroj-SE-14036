@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/shops_view"
+        android:title="Show selected shop locations" />
+    <item
+        android:id="@+id/new_shop"
+        android:title="Add shop" />
+</menu>
